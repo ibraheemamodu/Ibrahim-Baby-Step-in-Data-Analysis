@@ -1,18 +1,14 @@
 # Project Name: Ibrahim-Baby-Step-in-Data-Analysis
 
-
 # Problem Statement
-
 
 # Data Sourcing:
 
-The data used in this is a sample data downloaded from https://aka.ms/30DLDATFinanceDataSample and the analysis is done using Microsift Excel
-
+The data used in this is a sample data downloaded from https://aka.ms/30DLDATFinanceDataSample and Microsift Excel was used for the Analysis
 
 # Data Transformation:
 
 The data was used as downloaded there was no need for transformation
-
 
 # Findings:
  
