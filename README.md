@@ -1,23 +1,23 @@
 # Project Name: Ibrahim-Baby-Step-in-Data-Analysis
 
-.......
-# Problem Statement:
+
+# Problem Statement
 
 
 
-.......
-# Data Sourcing:
+
+# Data Sourcing
 
 
 
-.......
+
 # Data Transformation
 
 
 
-.......
+
 # Findings
 
 
 
-......
+
